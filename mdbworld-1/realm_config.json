@@ -1,0 +1,8 @@
+{
+    "app_id": "mdbworld-1-cigqt",
+    "config_version": 20210101,
+    "name": "mdbworld-1",
+    "location": "IE",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}

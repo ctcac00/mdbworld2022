@@ -1,0 +1,14 @@
+[
+    {
+        "name": "resetFunc",
+        "private": true
+    },
+    {
+        "name": "writeData",
+        "private": false
+    },
+    {
+        "name": "readData",
+        "private": false
+    }
+]
